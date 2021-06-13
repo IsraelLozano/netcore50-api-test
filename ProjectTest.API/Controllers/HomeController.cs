@@ -17,8 +17,8 @@ namespace ProjectTest.API.Controllers
         [HttpGet]
         public string Get()
         {
-            _logger.LogInformation("Initial Home Get");
-            return "Net Core 5.0 Running ... 12062021-v15 AZURE ilozano";
+            _logger.LogInformation("Initial Home Get by Ilozano AZURE ");
+            return "Net Core 5.0 Running ... 12062021-v15 AZURE ilozano vfinal ";
         }
     }
 }
